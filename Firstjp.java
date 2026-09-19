@@ -39,7 +39,7 @@ public static void main (String[] args){
     adjective2 = input.nextLine();
 
     System.out.println("I went to the " + adjective1 + " " + noun1 + " with a friend");
-    System.out.println("The first thing we did was" + verb1 + " in the " + noun2);
+    System.out.println("The first thing we did was " + verb1 + " in the " + noun2);
     System.out.println("The worker there told us to " + verb2 + " after we are done just to be safe");
     System.out.println("After we finished, we left a tip and thanked our " + adjective2 + " worker");
 
